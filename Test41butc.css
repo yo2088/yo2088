@@ -1,0 +1,110 @@
+.app{
+	margin-left:3px;
+	margin-top:16px;
+}
+.round{
+	border-radius:100px;
+}
+.center{
+	text-align:center; 
+}
+.center1{
+	margin-top:14px;
+	text-align:center; 
+}
+.center2{
+	text-align:justify; 
+}
+.center3{
+	text-align:left; 
+}
+.button7 {
+	font-weight:700;
+	color:white;
+	text-decoration:none;
+    padding: .2em .5em calc(.2em + 3px);	
+	border-radius:3px;
+	background:#F0AD4E;  
+	transition:0.2s;
+} 
+.button7:hover { 
+	background:#F0AD4E;
+}
+.button7:active {
+	background:#FFB606;
+}
+.button71 {
+	font-weight:700;
+	color:white;
+	text-decoration:none;
+    padding: .1em .1em calc(.1em + 2px);	
+	border-radius:3px;
+	background:#62CB31;  
+	transition:0.2s;
+} 
+.button71:hover { 
+	background:#62CB31;
+}
+.button71:active {
+	background:#95D16E;
+}
+.button72 {
+	font-weight:700;
+	color:white;
+	text-decoration:none;
+    padding: .8em 1em calc(.8em + 1px);	
+	border-radius:3px;
+	background:#62CB31;  
+	transition:0.2s;
+} 
+.button72:hover { 
+	background:#62CB31;
+}
+.button72:active {
+	background:#F9CC9D;
+}
+.button721 {
+	font-weight:700;
+	color:white;
+	text-decoration:none;
+    padding: .8em 1em calc(.8em + 1px);	
+	border-radius:3px;
+	background:#3498DB;  
+	transition:0.2s;
+} 
+.button721:hover { 
+	background:#3498DB;
+}
+.button721:active {
+	background:#F9CC9D;
+}
+.button722 {
+	font-weight:700;
+	color:white;
+	text-decoration:none;
+    padding: .8em 1em calc(.8em + 1px);	
+	border-radius:3px;
+	background:#FFB606;  
+	transition:0.2s;
+} 
+.button722:hover { 
+	background:#FFB606;
+}
+.button722:active {
+	background:#F9CC9D;
+}
+.button723 {
+	font-weight:700;
+	color:white;
+	text-decoration:none;
+    padding: .8em 1em calc(.8em + 1px);	
+	border-radius:3px;
+	background:#E74C3C;  
+	transition:0.2s;
+} 
+.button723:hover { 
+	background:#E74C3C;
+}
+.button723:active {
+	background:#F9CC9D;
+}		
